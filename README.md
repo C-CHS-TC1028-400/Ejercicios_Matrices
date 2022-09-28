@@ -1,12 +1,7 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios con el uso de listas
+# Ejercicios con el uso de listas de listas (MATRICES)
 
-- 02 Contar Pares Impares
-- 06 Sublistas Pares Impares
-- 07 Pares y Posición
-- 08 Listas Sin Duplicados
-- 09 Serie Fibonacci Listas
-- 10 Mezcla y Ordena Listas
+
 - 12 Crea Matriz de Números Consecutivos
 - 13 Obten Determinante Matriz 2x2
 - 14 Cantidad Pares Renglón
